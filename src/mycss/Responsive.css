@@ -1,0 +1,106 @@
+/* <i className="fas fa-bars"></i>
+<i className="fas fa-times"></i> */
+
+@media only screen and ( max-width:568px){
+    .top{
+        justify-content: center;
+    }
+    .Down{
+        display: block;
+    }
+
+    .prize p{
+        font-weight: 800;
+    }
+
+    hr{
+        margin-top: 30px;
+        margin-right:90px;
+        border: 1px solid  #BDBDBD;
+        /* padding: 1px; */
+    }
+
+    .pic img{
+        width: 40px;
+        height: 40px;
+        /* gap: 2px; */
+        margin-right: 20px;
+    }
+
+    .second_bottom{
+        display: block;
+        justify-content: center;
+        align-content:center;
+        margin-top:50px;
+        margin-left:130px ;
+    }
+    
+    .Third_page h1{
+        text-align: center;
+    }
+
+    .Third_page1{
+        display: block;
+        justify-content: center;
+        align-items: center;
+        margin-left: 130px;
+        margin-right: 157px;
+    }
+    
+.Third_page_1 img{
+    width:239px;
+    height: 280px;
+
+}
+    
+.Third_pic{
+    /* display: block; */
+    /* align-items: center; */
+    /* flex-direction: column; */
+    /* display:block; */
+    /* align-items: center; */
+    /* justify-content: start; */
+    /* flex-wrap: wrap; */
+
+}
+
+.Foother_top{
+    display:block;
+    justify-content:flex-start;
+    
+    margin: 40px 12px;
+    /* margin-bottom: 40px; */
+}
+.Foother_top h2{
+   padding-bottom: 20px;
+   padding-left: 63px;
+}
+.Foother_top img{
+    /* margin-right: 110px; */
+}
+
+.Fother_down{
+   display: block; 
+   justify-content: center;
+}
+
+.Foother_down_left{
+    display:block;
+    justify-content: space-between;
+    /* padding-right:200px;  */
+    margin-left: 80px;
+    margin-top: 30px;
+    
+}
+.Foother_down_right{
+    margin-left: 70px;
+}
+.Foother_down_right p{
+    padding-top: 8px;
+}
+
+.Down_2pic{
+    /* display: flex; */
+}
+
+}
